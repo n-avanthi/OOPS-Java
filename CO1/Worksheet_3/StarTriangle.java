@@ -1,11 +1,12 @@
-package CO1.Worksheet_3;
-// Pattern :
+// Write a java program to generate a following *'s triangle.
 // * * * * * *
 //  * * * * *
 //   * * * *
 //    * * *
 //     * *
 //      *
+
+package CO1.Worksheet_3;
 
 import java.util.*;
 public class StarTriangle {

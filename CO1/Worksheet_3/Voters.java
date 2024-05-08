@@ -1,3 +1,5 @@
+// Write a Java program to check whether you are eligible for vote or not? by taking user input as age.
+
 package CO1.Worksheet_3;
 import java.util.*;
 
