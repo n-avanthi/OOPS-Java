@@ -1,3 +1,5 @@
+// Write a program in Java to display the first 10 natural numbers.
+
 package CO1.Worksheet_2;
 import java.util.*;
 
