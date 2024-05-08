@@ -1,4 +1,4 @@
-package CO1.Activity_Set_2;
+// Use nested loops to print the following output:
 // Pattern :
 //     1
 //    212
@@ -6,6 +6,7 @@ package CO1.Activity_Set_2;
 //  4321234
 // 543212345
 
+package CO1.Activity_Set_2;
 import java.util.*;
 
 public class NumberTriangle {

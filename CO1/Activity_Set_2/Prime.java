@@ -1,5 +1,6 @@
-package CO1.Activity_Set_2;
 // Print the first 50 prime numbers, 10 in a row
+
+package CO1.Activity_Set_2;
 
 public class Prime {
     public static void main(String args[]) {
