@@ -1,3 +1,5 @@
+// Write a java code to create to calculate perimeter of rectangle
+
 package CO1.Assignment_1;
 import java.util.Scanner;
 public class Perimeter {

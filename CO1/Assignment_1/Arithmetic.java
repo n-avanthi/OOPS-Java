@@ -1,3 +1,5 @@
+// Write a java program to perform arithmetic operation 
+
 package CO1.Assignment_1;
 public class Arithmetic {
     public static void main(String[] args) {
