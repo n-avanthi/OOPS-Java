@@ -1,3 +1,5 @@
+// Write a program in Java to display the multiplication table of a given integer.
+
 package CO1.Worksheet_4;
 import java.util.*;
 
