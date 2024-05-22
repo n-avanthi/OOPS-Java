@@ -16,7 +16,7 @@ class Student {
         this.RollNum = RollNum;
         this.Course = Course;
         if (Age > 21 || Age < 15) {
-            throw new Exception("“AgeNotWithinRangeException”");
+            throw new Exception("AgeNotWithinRangeException");
         } else {
             this.Age = Age;
         }
